@@ -1,0 +1,104 @@
+.body{font-family: 'Instrument Serif', serif;
+}
+
+.nav-item {
+    letter-spacing : .2em;
+    font-size :14px;
+    text-transform :uppercase;
+}
+.dropdown-item{
+    letter-spacing : .2em;
+    font-size :12px;
+    text-transform :uppercase;
+}
+.my_footer{
+    background-color:white;
+    height:30px;
+    }
+.my_footer p{
+    padding-top:4px;
+    padding-bottom:4px;
+    font-size :12px;
+}
+
+/*** category page ***/
+.my_row_class{
+    padding-top :15px;
+}
+.my_row_class .mx_auto{
+    color:black;
+    font-size:12px;
+}
+.card-img-top{
+    width:200px;
+    height:200px;
+    object-fit:fill;
+}
+.my_image{
+    max-width:100%;
+
+}
+.my_title{
+    font-size:16px;
+    text-transform :uppercase;
+    letter-spacing : .2em;
+}
+.my_image_padding{
+padding:5px;
+}
+.my_bottom_margin{
+    margin-bottom:10px;
+}
+.card-body h4
+{
+    font-size:18px;
+    letter-spacing : .2em;
+    text-transform :uppercase;
+}
+/*** product page ***/
+.my_prod_row_class{
+    padding-top:15px;
+    padding-bottom:20px;
+}
+.my_prod_row_class .mx_auto{
+    color:black;
+    font-size:12px;
+    text-decoraton:none;
+}
+.my_prod_title
+{
+       font-size:16px;
+    letter-spacing : .2em;
+    text-transform :uppercase;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+.my_prod_text{
+    padding-right:20px;
+    color:red;
+}
+.my_search_text{
+    padding-top:20px;
+}
+/*** cart page***/
+my_custom_table{
+    min-width:400px;
+    font-size:14px;
+}
+.my_custom_thead{
+font-weight:normal;
+text-transform:uppercase;
+letter-spacing;.2em;
+background-color:#f8f8fa!important;
+}
+.my_custom_a{
+    text-decoraton:none;
+}
+.custom_icon{
+    text-decoraton:none;
+    color:#868e96 !important;
+}
+.my_custom_button{
+    margin-top:5px;
+}
